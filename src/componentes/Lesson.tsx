@@ -1,7 +1,7 @@
 import {CheckCircle, Lock} from 'phosphor-react'
 import { isPast, format} from 'date-fns'
 import ptBR from 'date-fns/locale/pt-BR'
-import {Link, NavLink} from "react-router-dom"
+import { NavLink } from "react-router-dom"
 
 
 interface LessonProps {

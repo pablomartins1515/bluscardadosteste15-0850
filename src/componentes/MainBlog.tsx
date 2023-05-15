@@ -78,7 +78,7 @@ export function MainBlog(props: VideoProps) {
               </span>
             </div>
             <div>
-              <div className="text-3xl mb-4 text-gray-600">
+              <div className="mt-6 text-3xl mb-4 text-gray-600">
                 <strong>
                   <BlogTextComponent html={data.lesson.subtext5} />
                 </strong>
